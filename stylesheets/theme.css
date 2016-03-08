@@ -8,6 +8,76 @@
 	padding: 0;
 }
 
+/*** Section Black and Gold ***/
+
+.bg-black {
+	background: #EF4E4E;
+	color: #fff;
+}
+
+.lingo-name {color: #daa520; font-family: germania-one, sans-serif}
+
+.bg-black h2, 
+
+.bg-black h3,
+.bg-black h4,
+.bg-black h5,
+.bg-black h6 {
+	color: #fff;
+}
+
+.bg-black .section-title h2 {
+	border: 1px solid #fff;
+}
+
+.bg-black a {
+	color: #fff;
+}
+
+.bg-black label {
+	color: #fff;
+}
+
+.bg-black .button {
+	background-color: #54687b;
+	border-color: #54687b;
+}
+
+.bg-black .button:hover {
+	background-color: #1bbc9b;
+	border-color: #1bbc9b;
+}
+
+.bg-black blockquote, 
+.bg-black blockquote p {
+	color: #fff;
+}
+
+.bg-black blockquote {
+	border-left: 1px solid #fff;
+}
+
+.bg-black.with-photo {
+	background: linear-gradient(rgba(40, 40, 40, 0.8), rgba(80, 80, 80, 0.8)), url("../images/with-photo-section/wood/wood03.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+}
+
+.ie9 .bg-black.with-photo {
+	background: transparent url("../images/with-photo-section/with_photo.png") no-repeat center center fixed;
+	position: relative;
+}
+
+.ie9 .bg-black.with-photo:before {
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	background: rgba(246, 91, 111, 0.8);
+}
 
 /*** Section White ***/
 
