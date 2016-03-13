@@ -4,8 +4,8 @@ meta.foundation-mq-small {
 }
 
 meta.foundation-mq-medium {
-    font-family: "/only screen and (min-width:40.063em) and (max-width:64em)/";
-    width: 40.063em
+    font-family: "/only screen and (min-width:47.036em) and (max-width:64em)/";
+    width: 47.036em
 }
 
 meta.foundation-mq-large {
@@ -452,7 +452,7 @@ select {
     }
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .medium-push-1 {
         position: relative;
         left: 8.33333%;
@@ -1767,7 +1767,7 @@ select {
     }
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .medium-block-grid-1>li {
         width: 100%;
         padding: 0 0.625rem 1.25rem
@@ -2440,7 +2440,7 @@ button[disabled].alert:focus,
     background-color: #f04124
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     button,
     .button {
         display: inline-block
@@ -2769,7 +2769,7 @@ button[disabled].alert:focus,
     display: block
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .clearing-main-prev,
     .clearing-main-next {
         position: absolute;
@@ -3694,7 +3694,7 @@ label.error {
     left: 0
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .joyride-tip-guide {
         width: 300px;
         left: inherit
@@ -4093,7 +4093,7 @@ kbd {
     display: none
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .touch .orbit-container .orbit-prev,
     .touch .orbit-container .orbit-next {
         display: inherit
@@ -4445,7 +4445,7 @@ ul.pagination li {
     cursor: pointer
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .reveal-modal {
         padding: 1.875rem;
         top: 6.25rem
@@ -5085,7 +5085,7 @@ table tfoot tr td {
     padding: 0 0.9375rem
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .tabs.vertical {
         width: 20%;
         float: left;
@@ -5183,7 +5183,7 @@ a.th {
     font-weight: normal
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .tooltip>.nub {
         border-color: transparent transparent #333 transparent;
         top: -10px
@@ -5507,7 +5507,7 @@ blockquote p {
     padding: 0 0.0625rem
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     h1,
     h2,
     h3,
@@ -5599,8 +5599,8 @@ blockquote p {
 }
 
 meta.foundation-mq-topbar {
-    font-family: "/only screen and (min-width:40.063em)/";
-    width: 40.063em
+    font-family: "/only screen and (min-width:47.036em)/";
+    width: 47.036em
 }
 
 .contain-to-grid {
@@ -5925,7 +5925,7 @@ meta.foundation-mq-topbar {
     display: block
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .top-bar {
         background: #ef4e4e;
         *zoom: 1;
@@ -6185,7 +6185,7 @@ section.tab-bar-section {
     top: 0
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     section.tab-bar-section {
         text-align: left
     }
@@ -6296,7 +6296,7 @@ ul.off-canvas-list li a {
     z-index: 1002
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .move-right a.exit-off-canvas:hover {
         background: rgba(255, 255, 255, 0.05)
     }
@@ -6324,7 +6324,7 @@ ul.off-canvas-list li a {
     z-index: 1002
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .move-left a.exit-off-canvas:hover {
         background: rgba(255, 255, 255, 0.05)
     }
@@ -6475,7 +6475,7 @@ th.hide-for-xxlarge-up {
     display: table-cell !important
 }
 
-@media only screen and (min-width: 40.063em) {
+@media only screen and (min-width: 47.036em) {
     .hide-for-small,
     .hide-for-small-only,
     .show-for-medium,

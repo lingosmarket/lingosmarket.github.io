@@ -250,10 +250,12 @@
 .bg-dark-blue h6 {
 	color: #fff;
 }
+.bg-dark-blue .section-content h5{font-family: french-canon, sans-serif; color: #fff; font-size: 24px; }
 
 .bg-dark-blue h2, 
+
 .bg-dark-blue .section-title h2 {
-	color: #54687b;
+	border: 1px solid #333; color: #fff; font-family: germania-one, sans-serif
 }
 
 .bg-dark-blue .section-title h2 {
