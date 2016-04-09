@@ -268,6 +268,7 @@ function initialize() {
     	mapTypeControl: true,
         clickable: true,
     	styles: googlemaptheme,
+        draggable: false,
         mapTypeId: google.maps.MapTypeId.HYBRID
   	}
   	

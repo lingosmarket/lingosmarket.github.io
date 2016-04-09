@@ -10,6 +10,9 @@
 	padding: 0;
 }
 
+.quickLink:hover {background-color: black}
+.quickLink:focus {background-color: black}
+
 /*** Section Black and Gold ***/
 
 .bg-black {
@@ -17,10 +20,10 @@
 	color: #fff;
 }
 
-.lingo-nameSM {color: #daa520; font-family: germania-one, sans-serif}
-.lingo-nameMD {color: #daa520; font-family: germania-one, sans-serif; padding-top: 64px}
+.lingo-nameSM {color: #daa520; font-family: overlock, sans-serif}
+.lingo-nameMD {color: #daa520; font-family: overlock, sans-serif; padding-top: 64px;font-style: normal; font-weight: 900}
 .title_sub {padding-bottom: 40px}
-.lingo-section-title {color: #daa520; font-family: germania-one, sans-serif}
+.lingo-section-title {color: #daa520; font-family: overlock, sans-serif;font-style: normal; font-weight: 900}
 
 .bg-black h2, 
 
@@ -105,7 +108,7 @@
 .bg-white .section-content h5{font-family: french-canon, sans-serif; color: #555; font-size: 24px; }
 
 .bg-white .section-title h2 {
-	border: 1px solid #333; color: #333; font-family: germania-one, sans-serif
+	border: 1px solid #333; color: #333; font-family: overlock, sans-serif; font-style: normal; font-weight: 900
 }
 
 .bg-white a {
@@ -179,7 +182,7 @@
 }
 
 .bg-purple .section-title h2 {
-	border: 1px solid #fff;
+	border: 1px solid #fff; font-family: overlock, sans-serif; font-style: normal; font-weight: 900;
 }
 .bg-purple .section-content h5{font-family: french-canon, sans-serif; color: #fff; font-size: 26px; }
 
@@ -255,7 +258,7 @@
 .bg-dark-blue h2, 
 
 .bg-dark-blue .section-title h2 {
-	border: 1px solid #333; color: #fff; font-family: germania-one, sans-serif
+	border: 1px solid #333; color: #fff; font-family: overlock, sans-serif; font-style: normal; font-weight: 900
 }
 
 .bg-dark-blue .section-title h2 {
@@ -417,6 +420,7 @@
 
 .name-logo {
 	display: none;
+    font-family: overlock, sans-serif; font-style: normal; font-weight: 100;
 }
 
 .top-bar-section ul {
